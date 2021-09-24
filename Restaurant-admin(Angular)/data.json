@@ -1,0 +1,70 @@
+{
+  "thismonthbills": [
+    {
+      "billid": 1,
+      "billdate": "2021-08-07",
+      "itemid": 1,
+      "totalprice": 20,
+      "userid": 301,
+      "username": "Saikiran"
+    },
+    {
+      "billid": 3,
+      "billdate": "2021-08-08",
+      "itemid": 2,
+      "totalprice": 200,
+      "userid": 301,
+      "username": "Sai"
+    },
+    {
+      "billid": 6,
+      "billdate": "2021-08-06",
+      "itemid": 3,
+      "totalprice": 20,
+      "userid": 302,
+      "username": "Anmol"
+    },
+    {
+      "billid": 7,
+      "billdate": "2021-08-05",
+      "itemid": 6,
+      "totalprice": 200,
+      "userid": 303,
+      "username": "Pallavi"
+    }
+  ],
+  "todaysbills": [
+    {
+      "billid": 11,
+      "billdate": "2021-08-15",
+      "itemid": 1,
+      "totalprice": 400,
+      "userid": 301,
+      "username": "Sai"
+    }
+  ],
+  "admins": [
+    {
+      "adminid": 101,
+      "adminname": "saikiran",
+      "adminpassword": "saikiran"
+    }
+  ],
+  "users": [
+    {
+      "id": 301,
+      "userName": "Sai",
+      "userPassword": "Sai"
+    },
+    {
+      "id": 302,
+      "userName": "Anmol",
+      "userPassword": "Anmol"
+    },
+    {
+      "id": 303,
+      "userName": "Pallavi",
+      "userPassword": "Pallavi"
+    }
+  ]
+}
